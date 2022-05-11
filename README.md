@@ -31,3 +31,11 @@ We will also cover the notion of subject and give examples of several commonly u
 We will also cover many other commonly used operators, that include but are not restricted to: withLatestFrom, forkJoin, take, first, delay, delayWhen, startWith, etc.
 
 At the end of the course, we will implement our own custom pipeable operator from first principles: we will implement a debugging operator that is going to be very helpful for debugging our RxJS programs.
+
+## What Will You Learn In this Course?
+
+By taking this course you will learn how to use the RxJs library in practice for building applications in reactive style. You will understand well the core notions that are the basis of reactive programming, such as Streams and Observables.
+
+You will also be familiar with an extended subset of operators that in practice will provide all that you will need for building applications in reactive style using RxJs.
+
+Have a look at the course free lessons below, and please enjoy the course!

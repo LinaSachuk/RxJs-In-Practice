@@ -38,4 +38,11 @@ By taking this course you will learn how to use the RxJs library in practice for
 
 You will also be familiar with an extended subset of operators that in practice will provide all that you will need for building applications in reactive style using RxJs.
 
-Have a look at the course free lessons below, and please enjoy the course!
+## Have a look at the course free lessons below, and please enjoy the course!
+
+What you’ll learn
+Code in Github repository with downloadable ZIP files per section
+Learn the RxJs library via Practical Examples
+Become familiar with an extended subset of RxJs Operators
+Understand in detail the core notions of Reactive Programming
+Learn how to design and build Applications in Reactive style
